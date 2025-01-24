@@ -1,0 +1,11 @@
+h1{width:200px;color: white;margin-left: 0,5rem;}
+body{display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    margin-left: 2rem;
+}
+#element{background-color: #fea500;height: 10em;width: 10em;}
+#element2{background-color: #fea500;height: 10em;width: 10em;}
+#element3{background-color:#fea500;height: 10em;width: 10em;}
+#element4{background-color:#fea500;height: 10em;width: 10em;}
+body{background-color: #808080;}
